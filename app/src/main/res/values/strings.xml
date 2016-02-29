@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">GulfSkorz</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello Stickman!</string>
     <string name="action_settings">Settings</string>
     <string name="GolfHolePic">Golf Hole</string>
         <string name="title_activity_tee_off">TeeOff</string>
